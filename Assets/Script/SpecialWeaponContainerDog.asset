@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858601fa5d314d24aa55a680941cdbb5, type: 3}
+  m_Name: SpecialWeaponContainerDog
+  m_EditorClassIdentifier: 
+  settings:
+  - weaponName: fireBone
+    weapon: {fileID: 248600712904361001, guid: 2eed8a1fe14d10c4299e130b693722b0, type: 3}
+  - weaponName: minimumPlayer
+    weapon: {fileID: 7430424749060901851, guid: 1a2faa18816fa0440bc1df8a5650cea4,
+      type: 3}
+  - weaponName: multiplePlayer
+    weapon: {fileID: 5543264189300949753, guid: 6bec66eaef1e5da4fab80c817d77579c,
+      type: 3}
+  - weaponName: multipleAttack
+    weapon: {fileID: 5353653657144814205, guid: 42624dc3c5ff373469a02e14ccce3331,
+      type: 3}

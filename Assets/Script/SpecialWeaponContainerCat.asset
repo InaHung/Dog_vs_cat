@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858601fa5d314d24aa55a680941cdbb5, type: 3}
+  m_Name: SpecialWeaponContainerCat
+  m_EditorClassIdentifier: 
+  settings:
+  - weaponName: fireFish
+    weapon: {fileID: 6683989490714761638, guid: 37f3acab6b9d5f74da71fe368b765543,
+      type: 3}
+  - weaponName: minimunPlayer
+    weapon: {fileID: 7430424749060901851, guid: 1a2faa18816fa0440bc1df8a5650cea4,
+      type: 3}
+  - weaponName: multiplePlayer
+    weapon: {fileID: 5543264189300949753, guid: 71bf0939984d3d645a741c5012ac374a,
+      type: 3}
+  - weaponName: multipleAttack
+    weapon: {fileID: 2662326416621804689, guid: 407130f4ccb511b46905b622467da5be,
+      type: 3}
